@@ -1,16 +1,109 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kamrulbd18/kamrulbd18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Kamrul Hasan
 
-Here are some ideas to get you started:
+### WordPress Developer | Elementor Expert | WooCommerce Specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/kamrulbd18/kamrulbd18/refs/heads/main/kamrul-hasan-banner.png" alt="Kamrul Hasan Banner" width="100%" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate WordPress Developer with experience building custom plugins, Elementor widgets, WooCommerce solutions, and dynamic websites.
+
+- 🔭 Currently working on WordPress Plugins
+- 🌱 Learning Advanced WooCommerce & Laravel
+- 💼 Freelance Web Developer
+- 🎯 Focused on Performance & Clean Code
+- 💬 Ask me about WordPress, Elementor, WooCommerce, PHP & JavaScript
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,wordpress,laravel,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 💼 Services
+
+✔ Custom WordPress Website Development
+
+✔ Elementor Custom Widgets
+
+✔ WooCommerce Customization
+
+✔ Plugin Development
+
+✔ Theme Customization
+
+✔ Bug Fixing & Performance Optimization
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamrulbd18&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulbd18&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrulbd18&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrulbd18&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/kamrulbd18">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/kamrulbd18">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:kamrulbd18@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I love building scalable WordPress solutions and turning ideas into powerful web experiences.
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile
+
+![Profile Views](https://komarev.com/ghpvc/?username=kamrulbd18&color=blue)
+
+</div>
