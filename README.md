@@ -40,6 +40,8 @@ I'm a passionate WordPress Developer with experience building custom plugins, El
 
 ✔ Plugin Development
 
+✔ Theme Development
+
 ✔ Theme Customization
 
 ✔ Bug Fixing & Performance Optimization
