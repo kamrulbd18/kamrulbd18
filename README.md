@@ -46,33 +46,13 @@ I'm a passionate WordPress Developer with experience building custom plugins, El
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
+## 📧 For Business Inquiries
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamrulbd18&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulbd18&layout=compact&theme=tokyonight" />
-
-</p>
+✅ <a href="mailto:kamrulbd18@gmail.com">kamrulbd18@gmail.com</a> 
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamrulbd18&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrulbd18&theme=tokyo-night" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
